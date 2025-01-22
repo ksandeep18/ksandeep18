@@ -2,11 +2,11 @@
 
 ## 🎓 About Me:
 - 📚 **B.Tech** in Mechanical Engineering @ **NIT Warangal**
-- 🌐 Currently pursuing a **BS in Data Science** from **IIT Madras**
+- 🌐 Currently pursuing a **Bachelore of Scineces in Data Science(online)** from **IIT Madras**
 - 💻 Passionate about **Data Science**, **Open Source**, and **Programming**
 
 ## 🛠️ My Tech Stack:
-- **Languages:** Python, R, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks:** Flask, Vue.js, Bootstrap
 - **Libraries:** pandas, scikit-learn
 - **Databases:** PostgreSQL, MySQL
