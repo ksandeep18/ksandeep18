@@ -23,4 +23,3 @@
 ## 📫 Connect with Me:
 - [GitHub](https://github.com/ksandeep18)
 - [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-sk-/)
-- [LeetCode](https://leetcode.com/u/S___K___7/)
