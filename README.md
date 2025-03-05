@@ -12,7 +12,6 @@
 - **Tools:** Git, GitHub, VS Code
 
 ## 🚀 Projects:
-- [**ChatBot**](#): A Chatbot using Dialogflow and FastAPI.
 - [**Laptop Price Prediction**](#): Predict laptop prices using Python and Machine Learning techniques.
 - [**Portfolio Website**](#): A personal website built with HTML, CSS, and JavaScript.
 - [**Event Management**](#): event Management Website based on two roles(admin and user) which allows to perform efficient CRUD operation by admin and register for event by user , with search functinality, Quota System based on capacity of Event etc.
