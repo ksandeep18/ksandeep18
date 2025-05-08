@@ -2,7 +2,7 @@
 
 ## 🎓 About Me:
 - 📚 **B.Tech** in Mechanical Engineering(3rd Year) @ **NIT Warangal**
-- 🌐 **Bachelore of Scineces in Data Science(online)** from **IIT Madras**
+- 🌐 **Bachelore of Sciences in Data Science(online)** from **IIT Madras**
 
 ## 🛠️ My Tech Stack:
 - **Languages:** Python, JavaScript, HTML, CSS, Jinja templating(for dynamic html rendering)
