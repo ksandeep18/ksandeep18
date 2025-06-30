@@ -1,6 +1,6 @@
 # Hi, I'm **Sandeep Kumar** 👋
 
-I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I love building projects that combine hardware and software.
+I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I love turning ideas into real projects, like building a ToolTracker app for managing  inventory and designing the official ICTSE-2026 website for Mechanical Department NITW. Coding, learning, and creating useful things is what drives me every day.
 
 ---
 
@@ -58,9 +58,9 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 ## 🌟 Achievements
 
 * Management member of **Team Spardhak**, 
-* Built the official website for **ICTSE-2026**
-* Completed Oracle Cloud Infrastructure course
-* Created **ToolTracker** for club inventory management
+* Built the official website for **[ICTSE Background Website](https://github.com/ksandeep18/ictse_bg)**
+* Completed Oracle Cloud Infrastructure Generative AI course
+* Build [ToolTracker](https://github.com/ksandeep18/tool_tracker)
 
 ---
 ## 📈 GitHub Stats
