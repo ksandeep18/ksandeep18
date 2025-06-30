@@ -58,7 +58,7 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 ## 🌟 Achievements
 
 * Management member of **Team Spardhak**, 
-* Built the official website for **[ICTSE Background Website](https://github.com/ksandeep18/ictse_bg)**
+* Built the official website for **[ICTSE Website](https://github.com/ksandeep18/ictse_bg)**
 * Completed Oracle Cloud Infrastructure Generative AI course
 * Build [ToolTracker](https://github.com/ksandeep18/tool_tracker)
 
