@@ -1,4 +1,4 @@
-# Hi, I'm **Sandeep Kumar** 👋
+# Hi, I'm **Sandeep Kumar** 
 
 I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I love turning ideas into real projects, like building a ToolTracker app for managing  inventory and designing the official ICTSE-2026 website for Mechanical Department NITW. Coding, learning, and creating useful things is what drives me every day.
 
@@ -13,7 +13,7 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
 **Quiz Master**
 
@@ -28,12 +28,12 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 
 ---
 
-## 🎓 Education
+## Education
 
 * **NIT Warangal** (B.Tech Mechanical Engineering, CGPA: 7.5) – Class of 2026
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,7 +46,7 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 💻 Skills
+## Skills
 
 * **Languages:** Python, JavaScript
 * **Web:** Flask, React, HTML, CSS, Bootstrap
@@ -55,7 +55,7 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 
 ---
 
-## 🌟 Achievements
+## Achievements
 
 * Management member of **Team Spardhak**, 
 * Built the official website for **[ICTSE Website](https://github.com/ksandeep18/ictse_bg)**
@@ -63,7 +63,7 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 * Build [ToolTracker](https://github.com/ksandeep18/tool_tracker)
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksandeep18&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sandeep's GitHub stats" />
