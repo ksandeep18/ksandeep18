@@ -70,8 +70,6 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeep18&layout=compact&theme=radical" alt="Sandeep's Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ksandeep18&theme=radical" alt="GitHub Streak" />
-  <br />
 </p>
 
 ## 📫 Connect with Me
