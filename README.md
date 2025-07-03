@@ -4,7 +4,7 @@ I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I
 
 ---
 
-## 🔭 What I'm Working On
+## What I'm Working On
 
 * **Data Science Project** (May 2025 - July 2025)
 
