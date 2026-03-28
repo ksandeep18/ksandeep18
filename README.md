@@ -1,83 +1,46 @@
-# Hi, I'm **Sandeep Kumar** 
+# Hi, I'm Kandula Sandeep Kumar
 
-I study Mechanical Engineering at NIT Warangal and Data Science at IIT Madras. I love turning ideas into real projects, like building a ToolTracker app for managing  inventory and designing the official ICTSE-2026 website for Mechanical Department NITW. Coding, learning, and creating useful things is what drives me every day.
+ Final-year B.Tech (Mechanical Engineering, NIT Warangal)  
+ Passionate about Machine Learning and Full-Stack Development  
 
 ---
 
-## What I'm Working On
+##  About Me
+- Hands-on experience in **OpenFOAM-based CFD simulations** (two-phase flow with phase change).  
+- Skilled in **Deep Learning** (CNNs, RNNs, Transformers, Autoencoders) using PyTorch.  
+- Full-stack developer with expertise in **MERN stack**.  
 
-* **Data Science Project** (May 2025 - July 2025)
+---
 
-  * Created models to spot fake images and guess ages with over 90% accuracy
-  * Built price prediction models for used items (R² = 0.87)
+##  Technical Skills
+- **Deep Learning:** PyTorch, CNNs, GRU/LSTM, Transformers, Autoencoders  
+- **ML & Data Science:** scikit-learn, NumPy, Pandas, UMAP, HDBSCAN  
+- **CFD & Simulation:** OpenFOAM, Ansys Fluent, ParaView  
+- **Astro/Science Tools:** batman-package, lightkurve, astropy  
+- **Languages:** Python, C++ (OpenFOAM)  
+- **Dev Tools:** Git/GitHub, VS Code, Google Colab  
 
 ---
 
 ##  Projects
+###  Two-Phase Flow Simulation with Phase Change
+- Modeled cavitation around high-speed projectiles using OpenFOAM.  
+- Conducted parametric studies on cavitator geometries and analyzed cavity stability.  
+- Post-processed vapor-liquid interfaces with ParaView.  
 
-**Quiz Master**
-
-* Flask backend, SQLite database
-* Separate dashboards for users and admins
-* Optimized queries for faster performance
-
-**Bank Management System**
-
-* Python and SQLite
-* Designed database and core banking operations
+###  GenAI Career Intelligence System
+- Full-stack generative AI app for **resume-to-JD gap analysis** and interview prep.  
+- Built with **React.js, Node.js, Express, MongoDB, Google Gemini API**.  
+- Implemented JWT authentication, Multer-based resume parsing, and dynamic visualization.  
 
 ---
 
-## Education
-
-* **NIT Warangal** (B.Tech Mechanical Engineering, CGPA: 7.5) – Class of 2026
-
----
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## Skills
-
-* **Languages:** Python, JavaScript
-* **Web:** Flask, React, HTML, CSS, Bootstrap
-* **Databases:** SQLite, MySQL, PostgreSQL
-* **Other:** Github, problem solving
+##  Coursework & Certifications
+- **IIT Madras B.S. Programme:** Machine Learning Foundations, Deep Learning, Statistics, Python for Data Science, DBMS  
+- **Kaggle Competitions:** Comment Category Prediction, Taxi Fare Prediction  
 
 ---
 
-## Achievements
-
-* Management member of **Team Spardhak**, 
-* Built the official website for **[ICTSE Website](https://github.com/ksandeep18/ictse_bg)**
-* Completed Oracle Cloud Infrastructure Generative AI course
-* Build [ToolTracker](https://github.com/ksandeep18/tool_tracker)
-
----
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksandeep18&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Sandeep's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksandeep18&layout=compact&theme=radical" alt="Sandeep's Top Languages" />
-  <br />
-</p>
-
-## 📫 Connect with Me
-
-* [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-sk-/)
-* [GitHub](https://github.com/ksandeep18)
-* [LeetCode](https://leetcode.com/u/S___K___7/)
-* [CodingNinjas](https://www.naukri.com/code360/profile/SandeepKK
-)
-
-> "I build things and make them better."
+##  Connect with Me 
+-  LinkedIn: [linkedin.com/in/sandeepkandula](https://linkedin.com/in/sandeepkandula)  
+-  GitHub: [github.com/sandeepkandula](https://github.com/sandeepkandula)  
